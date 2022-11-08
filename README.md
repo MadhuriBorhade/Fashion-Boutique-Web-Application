@@ -1,9 +1,12 @@
 # Fashion-Boutique-Web-Application
 Fashion Boutique Web Application
+
 Fasion Boutique Online Shopping Application- 
+
 Technology used: Python, Django Framework 
 Front End Technologies - HTML, CSS, BOOTSTRAP, JavaScript
 Database - Sqlite
+
 ◦ Added the product by category wise.
 
 ◦ Slider show to display products in scrollable manner.
